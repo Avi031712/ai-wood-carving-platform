@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Next.js
+.next/
+node_modules/
+
+# Outputs
+uploads/
+outputs/
+
+# OS
+.DS_Store
+Thumbs.db
