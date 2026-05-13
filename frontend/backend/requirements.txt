@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+pillow
+rembg
+onnxruntime
+numpy
+opencv-python
+trimesh
+scikit-image
