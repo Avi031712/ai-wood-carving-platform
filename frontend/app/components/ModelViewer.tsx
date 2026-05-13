@@ -2,7 +2,7 @@
 
 import { Canvas } from "@react-three/fiber";
 import { OrbitControls, Stage, Environment } from "@react-three/drei";
-import { STLLoader } from "three-stdlib";npm install three-stdlib
+import { STLLoader } from "three-stdlib";
 import { useLoader } from "@react-three/fiber";
 import * as THREE from "three";
 
